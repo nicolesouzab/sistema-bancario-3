@@ -1,2 +1,2 @@
 # sistema-bancario-3
-Otimização do Sistema Bancário criado para desafio do curso da DIO
+Desafio realizado utilizando a linguagem Python, com o objetivo de construir um sistema bancário completo, abordando funcionalidades como criação de contas, transações e segurança e realizando otimizações usando conceitos de POO.
